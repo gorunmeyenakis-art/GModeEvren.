@@ -14,3 +14,9 @@ Bu Python animasyonu, Tanrı G Mode evrenini görselleştirir:
 - `playsound` kütüphanesi:  
 ```bash
 pip install playsound==1.2.2
+---
+
+### 2️⃣ Tek Tıkla Yükleme Rehberi
+GitHub’a yüklemek için tek dosya README + Python dosyanı aynı klasöre koy:  
+
+1. Klasör yapısı:
